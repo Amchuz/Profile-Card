@@ -1,6 +1,8 @@
 # Profile Card
   
-Preview : 
+I haven't added any options in the menu. Will be adding it later on.  
+  
+#### Preview : 
 .  
 .  
 .  
